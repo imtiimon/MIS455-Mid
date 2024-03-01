@@ -3,7 +3,7 @@ body {
     font-weight: 400;
     font-style: normal;
     margin: 0;
-      }
+}
       
     
 
@@ -60,3 +60,11 @@ nav a:hover {
 .grid-container {
     display: grid;
 }
+
+.polaroid {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
